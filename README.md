@@ -1,7 +1,7 @@
 # GDP1_Well_log_data
 Well logging data from a hydrothermally altered shear zone
 
-This repository contains well logging data from the well GDP1 which was utilized in the publication: Caspari, E., Greenwood, A., Baron, L., Egli, D., Toschini, E., Hu, K., and Holliger, K.: Characteristics of a fracture network surrounding a hydrothermally altered shear zone from geophysical borehole logs, Solid Earth Discuss., https://doi.org/10.5194/se-2019-151, in review, 2019.  The data was collected within the National Research Programme 70 “Energy Turnaround” associated with the Swiss Competence Center on Energy Research – Supply of Electricity.  
+This repository contains well logging data from the well GDP1. The data is published in: Caspari, E., Greenwood, A., Baron, L., Egli, D., Toschini, E., Hu, K., and Holliger, K.: Characteristics of a fracture network surrounding a hydrothermally altered shear zone from geophysical borehole logs, Solid Earth Discuss., https://doi.org/10.5194/se-2019-151, in review, 2019.  The data was collected within the National Research Programme 70 “Energy Turnaround” associated with the Swiss Competence Center on Energy Research – Supply of Electricity.  
 
 The following data files are included as las files. They can be opened in any text editor or the data can be read into Matlab with the function read_las.m.
 
